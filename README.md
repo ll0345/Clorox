@@ -1,2 +1,2 @@
 # Clorox
-Association of National Advertisers x Clorox Case competition, 7/2020
+Association of National Advertisers x Clorox Case Competition, 7/2020
